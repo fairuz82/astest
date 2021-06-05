@@ -1,0 +1,9 @@
+#EXTM3U
+
+#EXTINF:-1 tv-id="1" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my_3.png" group-title="DP ASTRO@SUPER SPORT", (DianPhotograph) ASSP3
+http://50.7.161.82:8278/streams/d/Assp3/playlist.m3u8 
+
+#EXTINF:-1 tv-id="2" tvg-logo=https://i.postimg.cc/8C4zhNJS/Astro-Warna-NEW.png group-title=DP@ASTRO , WARNA
+http://iptv.tvmalaysia.cc:80/139664/139664/6740
+
+
